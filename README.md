@@ -32,7 +32,7 @@
 <h2>My Skill Set</h2>
  
 
-<div style="display:flex;justify-content:space-between;width:800px">  
+<div style="display:flex;justify-content:space-around;width:800px">  
   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 
@@ -43,23 +43,26 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-
+ 
+  </div>
  </br>
   
    
 <h2>Connect with me </h2>
 
 <div align="center">
-<a href="https://github.com/https://github.com/Ankikadu" target="_blank">
+<a href="https://github.com/Ankikadu" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   
 <a href="https://www.linkedin.com/in/ankita-kadu" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  
+ </div> 
  </br>
   
 <h2>Github Stats </h2>
+  </br>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ankikadu&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankikadu&count_private=true&theme=radical" alt="Ankikadu" />
+</div>
