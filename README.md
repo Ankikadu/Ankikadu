@@ -60,9 +60,22 @@
  </div> 
  </br>
   
+ <h2>Interested on my top projects </h2>
+<p>
+<a href="https://merry-kitten-8e2680.netlify.app/" target="_blank" rel="noopener"><img src="https://www.freepnglogos.com/uploads/best-buy-png-logo/best-buy-png-logo-vector-0.png" alt="Best Buy" width="150px" height="80px"/></a>
+<a href="https://ankitakadu-portfolio.vercel.app/" target="_blank" rel="noopener">
+  <img src="https://dodmzloxz80g8.cloudfront.net/wow/uploads/attachment/12030/image/About_Zappos_Logo_med_social_share_icon-01.png" alt="Zappos" width="200px" height="70px" /></a>
+</br>
+  
+  
 <h2>Github Stats </h2>
+  
+  [ankita] (https://github-readme-stats.vercel.app/api?username=Ankikadu&hide=contribs,prs)
+</br>
   </br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ankikadu&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankikadu&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
+  
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankikadu&count_private=true&theme=radical" alt="Ankikadu" />
 </div>
