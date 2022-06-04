@@ -66,16 +66,19 @@
 <a href="https://ankitakadu-portfolio.vercel.app/" target="_blank" rel="noopener">
   <img src="https://dodmzloxz80g8.cloudfront.net/wow/uploads/attachment/12030/image/About_Zappos_Logo_med_social_share_icon-01.png" alt="Zappos" width="200px" height="70px" /></a>
 </br>
+ 
   
+  <h2>Github Stats </h2>
   
-<h2>Github Stats </h2>
-  
-  [ankita] (https://github-readme-stats.vercel.app/api?username=Ankikadu&hide=contribs,prs)
 </br>
-  </br>
+  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankikadu&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 <br/>
   
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankikadu&count_private=true&theme=radical" alt="Ankikadu" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankikadu&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ankikadu/github-readme-stats)
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankikadu&theme=radical) 
+
+ 
 </div>
