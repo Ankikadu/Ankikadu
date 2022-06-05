@@ -61,7 +61,7 @@
  <h2>Interested on my top projects </h2>
 <p>
 <a href="https://merry-kitten-8e2680.netlify.app/" target="_blank" rel="noopener"><img src="https://www.freepnglogos.com/uploads/best-buy-png-logo/best-buy-png-logo-vector-0.png" alt="Best Buy" width="150px" height="80px"/></a>
-<a href="https://ankitakadu-portfolio.vercel.app/" target="_blank" rel="noopener">
+<a href=" https://zapposwebsite.vercel.app/" target="_blank" rel="noopener">
   <img src="https://dodmzloxz80g8.cloudfront.net/wow/uploads/attachment/12030/image/About_Zappos_Logo_med_social_share_icon-01.png" alt="Zappos" width="200px" height="70px" /></a>
 </br>
  
