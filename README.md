@@ -1,7 +1,5 @@
-
-
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%", "height= 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style= "height= 50%" />
 </div>  
 
  <h3 align="center">I'm Ankita</h3>
