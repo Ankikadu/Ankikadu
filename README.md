@@ -1,10 +1,11 @@
 
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%", "height= 50%" />
 </div>  
 
- <h3 align="center">I'm Ankita,  👨‍💻</h3>
+ <h3 align="center">I'm Ankita</h3>
+ <h3 align="center">A passionate Full Stack Web Developer from India</h3>
  </br>
 <p> <i>Aspiring full stack web developer with excellent problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set with a special emphasis on CSS. Able to see things from various points of view and able to understand and follow instructions.</i></p>
   </br>
